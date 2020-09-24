@@ -70,7 +70,7 @@ input[type=submit]:hover {
 </head>
 <body>
 
-<h2>Responsive Form</h2>
+<h2>Please leave comments here</h2>
 <p>Resize the browser window to see the effect. When the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other.</p>
 
 <div class="container">
@@ -100,7 +100,8 @@ input[type=submit]:hover {
           <option value="australia">Australia</option>
           <option value="canada">Canada</option>
           <option value="usa">USA</option>
-        </select>
+          <option value="india">India</option>
+	</select>
       </div>
     </div>
     <div class="row">
