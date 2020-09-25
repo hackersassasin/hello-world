@@ -77,7 +77,7 @@ input[type=submit]:hover {
   <form action="/action_page.php">
     <div class="row">
       <div class="col-25">
-        <label for="fname">First Name:</label>
+        <label for="fname">First Name</label>
       </div>
       <div class="col-75">
         <input type="text" id="fname" name="firstname" placeholder="Your name..">
